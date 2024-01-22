@@ -1,0 +1,19 @@
+#principal{
+    display: grid;
+}
+
+.f1{
+    display: flex;
+
+}
+.f2{
+    display: flex;
+
+}
+.f3{
+    display: flex;
+}
+p{
+    margin-left: 30px;
+}
+

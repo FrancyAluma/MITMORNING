@@ -1,0 +1,37 @@
+p{
+    font-size: 20px;
+    font-weight: bold;
+}
+img{
+    width: 300px;
+    height: 250px;
+
+}
+div{background-color: aqua;
+    padding-left: 30px;
+    margin-right: 50px;
+
+}
+>
+.division1{
+    background-color: #48ff00;
+}
+.division2{
+    background-color: yellow;
+}
+.division3{
+    background-color: burlywood;
+}
+#main{
+    background-color: #ee0c0c;
+    display: flex;
+    padding-top: 30px;
+}
+.heading1{
+    color: #ee0c0c;
+}
+.imageparagraph{
+    display: flex;
+    padding-left: 10px;
+
+}

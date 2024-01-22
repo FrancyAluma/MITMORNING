@@ -1,0 +1,17 @@
+
+#main{
+  display: flex;
+
+}
+.dev2{
+padding-right: 10px;
+}
+.dev1{
+  padding-right: 2px;
+}
+.dev3{
+  padding-left: 2px;
+}
+img{
+  padding-right: 20px;
+}

@@ -1,0 +1,36 @@
+form{
+background-color: aqua;
+    margin: auto;
+    width: 50%;
+    padding: 30px;
+    border-radius: 1px;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+
+}
+label{display: inline-block;
+    width:100px;
+
+}
+h1{
+    text-align: center;
+    font-family: Arial;
+    font-weight: bold;
+    color: #0e0101;
+    font-size: 30px;
+}
+textarea{
+    padding-left: 30px;
+}
+
+button{
+    background-color: #48ff00;
+    width: 100px;
+    height: 40px;
+    margin-left: 170px;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: crimson;
+}

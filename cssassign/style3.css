@@ -1,0 +1,29 @@
+form{
+    margin: auto;
+    width: 50%;
+    padding: 60px;
+    background-color: maroon;
+    color: #e8eeef;
+    padding-top: 8px;
+    margin-bottom: 10px;
+    font-family: Arial;
+
+}
+body{
+    background-color: crimson;
+}
+
+button{
+    width: 350px;
+    height: 30px;
+    border-radius: 5px
+}
+
+label{
+    display: inline-block;
+    width: 100px;
+}
+
+label[for=ml],label[for=fml],label[for=otr]{
+    padding-right: 10px;
+}
